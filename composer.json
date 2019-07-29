@@ -1,5 +1,5 @@
 {
-    "name": "grimzy/octobercms-mysql-spatial",
+    "name": "octobercms/grimzy-mysql-spatial",
     "description": "MySQL spatial data types extension for Laravel.",
     "scripts": {
         "test": "phpunit -c phpunit.xml.dist",
